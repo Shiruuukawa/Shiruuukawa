@@ -3,7 +3,7 @@
 I'm Shirukawa, a laid-back programmer from Cavite! I create Minecraft mods, script for Roblox, 
 and develop automation scripts. I'm also working on essential Windows applications.
 
-## Languages
+**Languages**
 <p>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
   <img width="12" />
@@ -20,12 +20,14 @@ and develop automation scripts. I'm also working on essential Windows applicatio
   <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" />
 </p>
 
-## Projects
+**Projects**
 - [Modrinth](https://modrinth.com/user/Shirukawa) - Minecraft Java mods in Modrinth.
 - [Forge](https://www.curseforge.com/members/Shirukawa14/projects) - Minecraft Java mods in Forge.
 
-## Connect with me
+**Social**
 [Email](mailto:Shirukawa30@gmal.com) • [Facebook](https://www.facebook.com/Gemgemamurao.30) • [Discord](https://discord.com/users/1326459526161109035) • [Tiktok](https://www.tiktok.com/@.shirukawa)
+
+[Codewars](https://www.codewars.com/users/.Shiru)
 
 ✨ Thanks for visiting!
 
