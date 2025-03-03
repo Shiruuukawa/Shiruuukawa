@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi!
 
-<!--
-**Shiruuukawa/Shiruuukawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shirukawa, a laid-back programmer from Cavite! I create Minecraft mods, script for Roblox, 
+and develop automation scripts. I'm also working on essential Windows applications.
 
-Here are some ideas to get you started:
+## Languages
+<p>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=mazno5QJBBis&format=png&color=000000" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=22189&format=png&color=000000" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Modrinth](https://modrinth.com/user/Shirukawa) - Minecraft Java mods in Modrinth.
+- [Forge](https://www.curseforge.com/members/Shirukawa14/projects) - Minecraft Java mods in Forge.
+
+## Connect with me
+[Email](mailto:Shirukawa30@gmal.com) • [Facebook](https://www.facebook.com/Gemgemamurao.30) • [Discord](https://discord.com/users/1326459526161109035) • [Tiktok](https://www.tiktok.com/@.shirukawa)
+
+✨ Thanks for visiting!
+
