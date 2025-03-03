@@ -6,13 +6,13 @@ and develop automation scripts. I'm also working on essential Windows applicatio
 
 **Languages**
 <p>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="30" />
-  <img src="https://img.icons8.com/?size=100&id=mazno5QJBBis&format=png&color=000000" width="30" />
-  <img src="https://img.icons8.com/?size=100&id=22189&format=png&color=000000" width="30" />
-  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="30" />
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="30" />
-  <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="30" />
-  <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" width="30" />
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="80" />
+  <img src="https://img.icons8.com/?size=100&id=mazno5QJBBis&format=png&color=000000" width="80" />
+  <img src="https://img.icons8.com/?size=100&id=22189&format=png&color=000000" width="80" />
+  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="80" />
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="80" />
+  <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="80" />
+  <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" width="80" />
 </p>
 
 **Projects**
