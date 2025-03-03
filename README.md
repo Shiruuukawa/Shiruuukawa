@@ -1,5 +1,5 @@
 # Hi!
-![](https://github.com/user-attachments/assets/1402505e-50e2-49c6-bf88-c811f14c12aa)
+![Raiden](https://github.com/user-attachments/assets/1402505e-50e2-49c6-bf88-c811f14c12aa)
 
 I'm Shirukawa, a laid-back programmer from Cavite! I create Minecraft mods, script for Roblox, 
 and develop automation scripts. I'm also working on essential Windows applications.
