@@ -1,28 +1,15 @@
-![Raiden](https://github.com/user-attachments/assets/1402505e-50e2-49c6-bf88-c811f14c12aa)
+<div style="position: relative; width: 100%;">
+    <img src="Shirukawa.svg" width="100%" />
+    <div style="position: absolute; top: 46%; left: 68%; transform: translate(-50%, -50%);
+                padding: 10px; border-radius: 10px;
+                color: white; font-size: 10px;">
+        <p>Email: <a href="mailto:Shirukawa30@gmail.com" style="color: lightblue;">Shirukawa30@gmail.com</a></p>
+        <p>Discord: <a href="https://discord.com/users/1326459526161109035" style="color: lightblue;">Shirukawa#1234</a></p>
+        <p>Facebook: <a href="https://www.facebook.com/Gemgemamurao.30" style="color: lightblue;">@Gemgemamurao.30</a></p>
+        <a href="https://www.codewars.com/users/.Shiru" style="color: orange;">Code Wars</a>
+    </div>
+</div>
 
-# Hi!
-I'm Shirukawa, a laid-back programmer from Cavite! I create Minecraft mods, script for Roblox, 
-and develop automation scripts. I'm also working on essential Windows applications.
-
-**Languages**
-<p>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="60" />
-  <img src="https://img.icons8.com/?size=100&id=mazno5QJBBis&format=png&color=000000" width="60" />
-  <img src="https://img.icons8.com/?size=100&id=22189&format=png&color=000000" width="60" />
-  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="60" />
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="60" />
-  <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="60" />
-  <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" width="60" />
-</p>
-
-**Projects**
-- [Modrinth](https://modrinth.com/user/Shirukawa) - Minecraft Java mods in Modrinth.
-- [Forge](https://www.curseforge.com/members/Shirukawa14/projects) - Minecraft Java mods in Forge.
-
-**Social**
-[Email](mailto:Shirukawa30@gmal.com) • [Facebook](https://www.facebook.com/Gemgemamurao.30) • [Discord](https://discord.com/users/1326459526161109035) • [Tiktok](https://www.tiktok.com/@.shirukawa)
-
-[Codewars](https://www.codewars.com/users/.Shiru)
-
-✨ Thanks for visiting!
-
+<div>
+    <img src="raiden.gif" style="position: absolute; width: 250px; top: 63%; left: 73%; transform: translate(-50%, -50%); padding: 10px;">
+</div>
