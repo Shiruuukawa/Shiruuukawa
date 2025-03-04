@@ -9,3 +9,5 @@
         <a href="https://www.codewars.com/users/.Shiru" style="color: orange;">Code Wars</a>
     </div>
 </div>
+
+<img src="raiden.gif"/>
