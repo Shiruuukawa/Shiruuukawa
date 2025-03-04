@@ -9,7 +9,3 @@
         <a href="https://www.codewars.com/users/.Shiru" style="color: orange;">Code Wars</a>
     </div>
 </div>
-
-<div>
-    <img src="raiden.gif" style="position: absolute; width: 250px; top: 63%; left: 73%; transform: translate(-50%, -50%); padding: 10px;">
-</div>
